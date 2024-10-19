@@ -1,0 +1,6 @@
+framework module Pods_BuStop {
+  umbrella header "Pods-BuStop-umbrella.h"
+
+  export *
+  module * { export * }
+}
